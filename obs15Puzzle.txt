@@ -1,0 +1,7 @@
+//code is written by reddy bhavana cse department
+I am using help of global variables to store the empty button and its x and y coordinates
+I am using 2D arrays for buttons also 
+in handle function i am cheching the adjacent boxes wethe it was emptu or not if it was empty i am changing the coordinates of empty button to
+the clicked button and clicked button to empty button
+To access the empty button i am using global variables
+my button is a subclass of fl button 
